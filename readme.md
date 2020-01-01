@@ -1,5 +1,7 @@
 # 1. DevOps
 
+> First, check the backlog. https://github.com/nemonik/hands-on-DevOps/projects/1  I am working an issue introduced with the release of K3s v1.0.0
+
 A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Vagrant, VirtualBox, Ansible, Kubernetes (K8s), K3s, Docker, Docker-Compose, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec...
 
 A reveal.js presentation written to accompany this course can found at [https://nemonik.github.io/hands-on-DevOps/](https://nemonik.github.io/hands-on-DevOps/).
